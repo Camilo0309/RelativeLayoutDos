@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RelativeLayoutDos</string>
+    <string name="str_1">Center</string>
+    <string name="str_2">1</string>
+    <string name="str_3">2</string>
+    <string name="str_4">3</string>
+    <string name="str_5">4</string>
 </resources>
